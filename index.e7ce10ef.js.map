@@ -1,0 +1,1 @@
+{"mappings":"AAEAA,QAAQC,IAAI","sources":["js/index.js"],"sourcesContent":["import \"/scss/index.scss\";\n\nconsole.log(\"Привет из Parcel!\");\n"],"names":["console","log"],"version":3,"file":"index.e7ce10ef.js.map"}

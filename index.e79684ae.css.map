@@ -1,0 +1,1 @@
+{"mappings":"ACCC","sources":["index.e79684ae.css","scss/index.scss"],"sourcesContent":["html body {\n  color: red;\n}\n\n/*# sourceMappingURL=index.e79684ae.css.map */\n","html {\n\tbody {\n\t\tcolor: red;\n\t}\n}\n"],"names":[],"version":3,"file":"index.e79684ae.css.map"}
